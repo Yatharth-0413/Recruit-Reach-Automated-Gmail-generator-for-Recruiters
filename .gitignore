@@ -8,6 +8,8 @@ env/
 
 # Secrets and Gmail OAuth
 credentials/
+credentials/credentials.json
+credentials/token.json
 token.json
 credentials.json
 .env
