@@ -1,0 +1,17 @@
+
+Subject: Application for Software Development Engineer Role – Yatharth Bhardwaj
+
+Hi {recruiter_name},
+
+I hope you are doing well.
+
+I am reaching out regarding Software Engineering opportunities at {company}.
+
+I am currently working as an SDE1 at Société Générale, with experience in Java, Spring Boot and backend development.
+
+Please find my resume attached for your consideration.
+
+I would appreciate it if you could consider my profile for relevant opportunities.
+
+Regards,
+Yatharth Bhardwaj

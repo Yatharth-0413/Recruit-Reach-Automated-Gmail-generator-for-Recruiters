@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets and Gmail OAuth
+credentials/
+token.json
+credentials.json
+.env
+.env.*
+!.env.example
+
+# Personal data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+attachments/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
